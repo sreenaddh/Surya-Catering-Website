@@ -16,8 +16,7 @@ A beautifully designed and responsive catering website built with **Dart**, prov
 ## 🛠️ Tech Stack  
 - **Framework**: Flutter  
 - **Language**: Dart  
-- **State Management**: Provider (if used)  
-- **Hosting**: Deployed on a web server  
+- **Hosting**: Deployed on Vercel  
 
 ## 📂 Project Setup  
 To run this project locally, follow these steps:  
